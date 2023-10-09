@@ -1,3 +1,5 @@
+![20230612_114450](https://github.com/jimmyle12/khiem-le.github.io/assets/43982529/7b14ca85-d271-4b58-9d04-9ff64ca88607)
+
 ## [AUTOMATION ANALYST - KHIEM LE](https://www.linkedin.com/in/jimmyle12/)
 
   Hello, I'm Khiem Le and welcome to my Github repository! Below is a little bit of my background: 
