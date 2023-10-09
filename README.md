@@ -9,13 +9,13 @@
   
   Back in Vietnam, I worked as a Sales Executive in non-life insurance for 3 years before moving to Sydney. Since 2021, I've had the privilege of working on different automation projects in the fiannce industry. My key skills is developing automated test scripts using Selenium, Gherkin and Java.
 
-## Achievements
+## ACHIEVEMENTS
 
 • 📈 Working in Scrum teams on developing software enhancement
 
 • 🙋‍♂️ Taking lead on the team's automation scripts development tasks
 
-## Certifications
+## CERTIFICATIONS
 
 • Git and Github – The practical guide on Udemy completed on 18 Aug, 2023
 
@@ -25,3 +25,6 @@
 
 • Gitlab technical core certification
 
+## UNIVERSITY PROJECTS
+
+• [Computer Graphics](https://github.com/jimmyle12/COMP3170_Assigment_3)
