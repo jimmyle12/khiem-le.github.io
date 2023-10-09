@@ -1,4 +1,4 @@
-![20230612_114450](https://github.com/jimmyle12/khiem-le.github.io/assets/43982529/7b14ca85-d271-4b58-9d04-9ff64ca88607)
+<img src="img/khiem_le.jpeg" alt="alejandro" height="100px"/
 
 ## [AUTOMATION ANALYST - KHIEM LE](https://www.linkedin.com/in/jimmyle12/)
 
