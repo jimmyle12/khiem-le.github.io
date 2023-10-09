@@ -1,4 +1,4 @@
-<img src="khiem_le.jpg" alt="khiem" height="200px"/>
+<img src="khiem_le.jpg" alt="khiem" height="300px"/>
 
 ## [AUTOMATION ANALYST - KHIEM LE](https://www.linkedin.com/in/jimmyle12/)
 
